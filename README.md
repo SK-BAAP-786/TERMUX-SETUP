@@ -1,5 +1,13 @@
 #𝗧𝗘𝗥𝗠𝗨𝗫-𝗦𝗘𝗧𝗨𝗣 𝗖𝗔𝗠𝗠𝗔𝗡𝗗 𝗘𝗡𝗝𝗢𝗬🏹🌹
 
+
+
+pkg update && pkg upgrade
+pkg install git
+pkg install python
+pip install requests
+rm -rf TERMUX-SETUP
+
 git clone 
 https://github.com/SK-BAAP-786/TERMUX-SETUP
 
